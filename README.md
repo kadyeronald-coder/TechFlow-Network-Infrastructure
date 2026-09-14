@@ -9,7 +9,7 @@ The network demonstrates practical networking concepts including VLAN segmentati
 The project was developed and tested using Cisco Packet Tracer.
 ## Network Topology
 
-![Network Topology](screenshots/network-topology.png)
+![Network Topology](network-topology.png)
 
 ## Network Architecture
 
