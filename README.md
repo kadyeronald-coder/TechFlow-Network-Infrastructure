@@ -7,6 +7,9 @@ This project is a Cisco Packet Tracer enterprise network designed for a company 
 The network demonstrates practical networking concepts including VLAN segmentation, inter-VLAN routing, HSRP, EtherChannel, OSPF, DHCP, NAT/PAT, ACLs, SSH, NTP, wireless networking and RADIUS authentication.
 
 The project was developed and tested using Cisco Packet Tracer.
+## Network Topology
+
+![Network Topology](screenshots/network-topology.png)
 
 ## Network Architecture
 
